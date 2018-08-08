@@ -1,2 +1,2 @@
-# Custom_Miner_HiveOS
-Ensemble des custom Miner pour HiveOS
+# Custom Miner HiveOS
+Customs miners for HiveOS integration.
